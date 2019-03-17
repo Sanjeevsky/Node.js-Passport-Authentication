@@ -23,3 +23,7 @@ It is used For providing Authentication Mechanism with Various Stategies Such as
 It is used to provide success and error Flash messages on Screen
 
 # ScreenShots
+<img src="https://github.com/Sanjeevsky/Node.js-Passport-Authentication/raw/master/1.PNG" height='500px'>
+<img src="https://github.com/Sanjeevsky/Node.js-Passport-Authentication/raw/master/2.PNG" height='500px'>
+<img src="https://github.com/Sanjeevsky/Node.js-Passport-Authentication/raw/master/3.PNG" height='500px'>
+<img src="https://github.com/Sanjeevsky/Node.js-Passport-Authentication/raw/master/4.PNG" height='500px'>
