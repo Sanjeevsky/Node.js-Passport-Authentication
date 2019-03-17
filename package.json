@@ -1,0 +1,25 @@
+{
+  "name": "passport-auth",
+  "version": "1.0.0",
+  "description": "Passport Authentication Module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sanjeev Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.4.19",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
